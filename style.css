@@ -71,7 +71,7 @@ font-size: 4%;
 font-family: Arial;
 font-weight: bold;
 color: black;
-perspective: 1000px
+perspective: 1000px;
 transform: rotateX(20deg) rotateY(20deg);
 text-shadow: 3px 3px 0 #8B008B, 3px 3px 0 #8B008B, 3px 3px 0 #8B008B;
 transition: transform 0.20s;
@@ -419,7 +419,7 @@ font-size: 525%;
 font-family: Arial;
 font-weight: bold;
 color: black;
-perspective: 1000px
+perspective: 1000px;
 transform: rotateX(20deg) rotateY(20deg);
 text-shadow: 3px 3px 0 #8B008B, 3px 3px 0 #8B008B, 3px 3px 0 #8B008B;
 transition: transform 0.20s;
